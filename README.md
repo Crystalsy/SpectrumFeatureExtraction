@@ -17,4 +17,7 @@ Trained for extract significant features of tryptic peptide tandem ms dataset
 
   # Work Environment
   Python 2.7
+  jupyter notebook version
+  GTX 1080 Ti
+  
   
