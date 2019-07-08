@@ -15,4 +15,5 @@ Trained for extract significant features of tryptic peptide tandem ms dataset
   (Download link: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/02/PXD004732/)
 
   # Work Environment
-
+  Python 2.7
+  
