@@ -9,7 +9,7 @@ Trained for extract significant features of tryptic peptide tandem ms dataset
   
 ![pxd004732](https://user-images.githubusercontent.com/52642328/60783392-6cd2fe00-a185-11e9-9f8b-2819d5c78619.PNG)
 
-  Dataset format <br>
+  
   The dataset is available on the PRIDE repository site <br>
   (Download link: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/02/PXD004732/)
 
